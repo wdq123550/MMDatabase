@@ -1,6 +1,5 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
 
+// https://github.com/wdq123550/MMDatabase
 
 import Foundation
 import WCDBSwift
