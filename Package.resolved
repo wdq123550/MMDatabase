@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "sqlcipher",
+        "repositoryURL": "https://github.com/Tencent/sqlcipher",
+        "state": {
+          "branch": null,
+          "revision": "5d8825c22feedb421ad6f9ecfc1399460e10d299",
+          "version": "1.4.7"
+        }
+      },
+      {
+        "package": "WCDBSwift",
+        "repositoryURL": "https://github.com/Tencent/wcdb",
+        "state": {
+          "branch": null,
+          "revision": "db68d174876d4c50c9843d0e6e22c58adebf2431",
+          "version": "2.1.11"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
