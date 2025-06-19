@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "MMDatabase", targets: ["MMDatabase"])
     ],
     dependencies: [
-        .package(url: "https://github.com/Tencent/wcdb", .upToNextMajor(from: "2.1.11"))
+        .package(url: "https://github.com/Tencent/wcdb", .exactItem("2.1.11"))
     ],
     targets: [
         .target(name: "MMDatabase", dependencies: [
